@@ -1,0 +1,22 @@
+# 元順營造・鶯歌專案 BIM / CAD 工程標準忽略清單
+# Revit 自動備份與日誌檔
+*.[0-9][0-9][0-9][0-9].rvt
+*.[0-9][0-9][0-9][0-9].rfa
+*.[0-9][0-9][0-9][0-9].rte
+*_backup/
+journal.*.txt
+
+# AutoCAD / Civil 3D 暫存與鎖定檔
+*.bak
+*.dwl
+*.dwl2
+*.ac$
+*.sv$
+*.err
+
+# 系統與編輯器暫存檔
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+desktop.ini

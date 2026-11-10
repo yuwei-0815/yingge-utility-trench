@@ -1,0 +1,10 @@
+# 元順營造・鶯歌專案大型模型 Git LFS 規則宣告
+*.rvt filter=lfs diff=lfs merge=lfs -text
+*.rfa filter=lfs diff=lfs merge=lfs -text
+*.ifc filter=lfs diff=lfs merge=lfs -text
+*.dwg filter=lfs diff=lfs merge=lfs -text
+*.dxf filter=lfs diff=lfs merge=lfs -text
+*.nwd filter=lfs diff=lfs merge=lfs -text
+*.nwc filter=lfs diff=lfs merge=lfs -text
+*.glb filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
